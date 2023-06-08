@@ -1,8 +1,8 @@
 # KakaoOBT_KoboldAI
 This is a Kakaotalk OBT Chatbot Skill Server powered by KoboldAI Client.
 
-![Chatting with KoboldAI Erebus Model](image_chat.png)
-![Requesting School Menu](image_menu.png)
+![Chatting with KoboldAI Erebus Model](image_chat.JPG)
+![Requesting School Menu](image_menu.JPG)
 
 # Chatbot API with Flask
 
