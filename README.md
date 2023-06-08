@@ -1,6 +1,9 @@
 # KakaoOBT_KoboldAI
 This is a Kakaotalk OBT Chatbot Skill Server powered by KoboldAI Client.
 
+![Chatting with KoboldAI Erebus Model](image_chat.png)
+![Requesting School Menu](image_menu.png)
+
 # Chatbot API with Flask
 
 This repository contains a Flask-based chatbot API powered by KoboldAI. The API allows users to interact with a chatbot, and it also provides an endpoint for retrieving daily food details.
